@@ -1,0 +1,8 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
+</keymap>
