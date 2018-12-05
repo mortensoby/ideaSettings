@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="gml" type="Groovy" />
+      <mapping ext="databasechangelog" type="Groovy" />
+      <mapping pattern=".travis" type="PLAIN_TEXT" />
+      <mapping ext="dmn" type="XML" />
+    </extensionMap>
+  </component>
+</application>
