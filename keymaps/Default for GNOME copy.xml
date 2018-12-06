@@ -36,7 +36,6 @@
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
   <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="ctrl w" />
     <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
   <action id="EditorUnSelectWord">
