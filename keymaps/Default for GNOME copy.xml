@@ -31,6 +31,18 @@
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
+  <action id="EditorLookupDown" />
+  <action id="EditorLookupUp" />
+  <action id="EditorScrollDown" />
+  <action id="EditorScrollUp" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
@@ -43,14 +55,29 @@
     <keyboard-shortcut first-keystroke="shift alt l" />
   </action>
   <action id="GoToClass" />
+  <action id="GotoCustomRegion" />
   <action id="Gradle.ExecuteTask">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
+  <action id="HippieBackwardCompletion">
+    <keyboard-shortcut first-keystroke="ctrl altGraph space" />
+  </action>
+  <action id="HippieCompletion">
+    <keyboard-shortcut first-keystroke="altGraph space" />
+  </action>
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="altGraph period" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="SearchEverywhere.NavigateToNextGroup">
+    <keyboard-shortcut first-keystroke="page_down" />
+  </action>
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="page_up" />
+  </action>
   <action id="SendEOF" />
   <action id="TagDocumentationNavigation" />
   <action id="Uml.ShowDiff" />
