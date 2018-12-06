@@ -18,7 +18,9 @@
     <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="altGraph l" />
   </action>
-  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowDiff">
+    <keyboard-shortcut first-keystroke="altGraph d" />
+  </action>
   <action id="Diff.ShowSettingsPopup" />
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
