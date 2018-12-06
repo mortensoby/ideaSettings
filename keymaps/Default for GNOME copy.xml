@@ -21,7 +21,7 @@
   <action id="DatabaseView.CopyAction" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
-    <keyboard-shortcut first-keystroke="altGraph l" />
+    <keyboard-shortcut first-keystroke="altGraph minus" />
   </action>
   <action id="Diff.ShowDiff">
     <keyboard-shortcut first-keystroke="altGraph d" />
@@ -71,6 +71,9 @@
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="altGraph space" />
   </action>
+  <action id="LocalHistory">
+    <keyboard-shortcut first-keystroke="altGraph l" />
+  </action>
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="Run">
@@ -87,6 +90,9 @@
   <action id="SendEOF" />
   <action id="TagDocumentationNavigation" />
   <action id="Uml.ShowDiff" />
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="altGraph h" />
+  </action>
   <action id="context.load" />
   <action id="openAssertEqualsDiff" />
 </keymap>
