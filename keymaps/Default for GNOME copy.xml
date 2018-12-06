@@ -7,6 +7,11 @@
   </action>
   <action id="ChangesView.Diff" />
   <action id="ClassTemplateNavigation" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
   <action id="Compare.SameVersion">
     <keyboard-shortcut first-keystroke="altGraph c" />
   </action>
