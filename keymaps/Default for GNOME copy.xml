@@ -20,8 +20,8 @@
   <action id="Console.TableResult.CompareCells" />
   <action id="DatabaseView.CopyAction" />
   <action id="Debug">
+    <keyboard-shortcut first-keystroke="altGraph dead_circumflex" />
     <keyboard-shortcut first-keystroke="shift f9" />
-    <keyboard-shortcut first-keystroke="altGraph minus" />
   </action>
   <action id="Diff.ShowDiff">
     <keyboard-shortcut first-keystroke="altGraph d" />
