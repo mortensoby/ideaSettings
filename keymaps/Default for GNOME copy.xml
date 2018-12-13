@@ -22,6 +22,7 @@
   <action id="Debug">
     <keyboard-shortcut first-keystroke="altGraph dead_circumflex" />
     <keyboard-shortcut first-keystroke="shift f9" />
+    <keyboard-shortcut first-keystroke="altGraph k" />
   </action>
   <action id="Diff.ShowDiff">
     <keyboard-shortcut first-keystroke="altGraph d" />
@@ -48,6 +49,10 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
     <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="shift alt 8" />
+    <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="ExportToTextFile" />
   <action id="FileChooser.GotoDesktop" />
