@@ -7,6 +7,10 @@
   </action>
   <action id="ChangesView.Diff" />
   <action id="ClassTemplateNavigation" />
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="shift ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="ctrl divide" />
@@ -75,6 +79,7 @@
   </action>
   <action id="GoToClass" />
   <action id="GotoCustomRegion" />
+  <action id="GotoTest" />
   <action id="Gradle.ExecuteTask">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
@@ -84,6 +89,7 @@
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="altGraph space" />
   </action>
+  <action id="Images.ShowThumbnails" />
   <action id="LocalHistory">
     <keyboard-shortcut first-keystroke="altGraph l" />
   </action>
@@ -97,11 +103,15 @@
   </action>
   <action id="NextOccurence" />
   <action id="PreviousOccurence" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="altGraph period" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
