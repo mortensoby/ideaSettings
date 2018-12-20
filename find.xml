@@ -3,6 +3,7 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.feature" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,5 +16,6 @@
     <mask>*.ts</mask>
     <mask>*.groovy</mask>
     <mask>*.gradle</mask>
+    <mask>*.feature</mask>
   </component>
 </application>
