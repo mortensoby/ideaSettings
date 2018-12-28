@@ -102,6 +102,9 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="NextOccurence" />
+  <action id="Pause">
+    <keyboard-shortcut first-keystroke="ctrl altGraph p" />
+  </action>
   <action id="PreviousOccurence" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
