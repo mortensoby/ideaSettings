@@ -4,6 +4,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="databasechangelog" type="Groovy" />
       <mapping ext="gml" type="Groovy" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".travis" type="PLAIN_TEXT" />
       <mapping ext="dmn" type="XML" />
     </extensionMap>
