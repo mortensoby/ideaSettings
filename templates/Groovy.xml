@@ -2,7 +2,9 @@
   <template name="½" value="${$END$}" description="expression language" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="GROOVY" value="true" />
+      <option name="GSP" value="true" />
       <option name="SPOCK_SPECIFICATION" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
 </templateSet>
