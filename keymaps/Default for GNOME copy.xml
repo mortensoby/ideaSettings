@@ -106,6 +106,10 @@
     <keyboard-shortcut first-keystroke="ctrl altGraph p" />
   </action>
   <action id="PreviousOccurence" />
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
