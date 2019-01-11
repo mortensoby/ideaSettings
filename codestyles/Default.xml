@@ -16,11 +16,6 @@
       <option name="LABEL_INDENT_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
-  <codeStyleSettings language="JAVA">
-    <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-    </indentOptions>
-  </codeStyleSettings>
   <codeStyleSettings language="yaml">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
