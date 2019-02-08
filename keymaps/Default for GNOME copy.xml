@@ -20,6 +20,7 @@
     <keyboard-shortcut first-keystroke="altGraph c" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Compile" />
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.CompareCells" />
   <action id="DatabaseView.CopyAction" />
@@ -27,6 +28,9 @@
     <keyboard-shortcut first-keystroke="altGraph dead_circumflex" />
     <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="altGraph k" />
+  </action>
+  <action id="DebugClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f9" />
   </action>
   <action id="Diff.ShowDiff">
     <keyboard-shortcut first-keystroke="altGraph d" />
