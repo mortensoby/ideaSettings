@@ -2,6 +2,9 @@
   <action id="$LRU">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
+  <action id="ActivateGradleToolWindow">
+    <keyboard-shortcut first-keystroke="altGraph g" />
+  </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="altGraph a" />
   </action>
