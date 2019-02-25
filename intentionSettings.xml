@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Grails/Create view (GSP page)" />
+    <ignoreAction name="Groovy/Declaration/Remove explicit type declaration" />
   </component>
 </application>
