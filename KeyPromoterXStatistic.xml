@@ -49,6 +49,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Gradle">
+        <Item>
+          <IdeaActionID>ActivateGradleToolWindow</IdeaActionID>
+          <ShortCut>'Alt Graph+G'</ShortCut>
+          <Description>Gradle</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Open Library Settings">
         <Item>
           <IdeaActionID>EditSource</IdeaActionID>
@@ -86,6 +94,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'GatewaySpec.with httpBuilderNg'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'api-client [publishMavenJava]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'api-client [publishMavenJava]'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
