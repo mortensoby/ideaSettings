@@ -161,6 +161,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'FilingControllerSpec.search'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'FilingControllerSpec.search'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'GatewaySpec.lets ssl (2)'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
