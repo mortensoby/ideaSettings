@@ -12,6 +12,7 @@
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="ext" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="dmn" type="XML" />
       <removed_mapping pattern="Jenkinsfile" approved="true" type="Jenkins file" />
     </extensionMap>
