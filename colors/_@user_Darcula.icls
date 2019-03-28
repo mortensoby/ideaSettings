@@ -1,0 +1,16 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2019-03-28T15:23:00</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2019.1.0.0</property>
+    <property name="modified">2019-03-28T16:04:02</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="Groovy var">
+      <value>
+        <option name="FOREGROUND" value="c6bc19" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
