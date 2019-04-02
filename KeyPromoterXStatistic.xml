@@ -153,6 +153,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'GatewaySpec.Hvis vi kalder landing page i identity-provider kommer vi igennem'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10' or 'Alt Graph+.'</ShortCut>
+          <Description>Run 'GatewaySpec.Hvis vi kalder landing page i identity-provider kommer vi igennem'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'GatewaySpec.test route to car-api'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>

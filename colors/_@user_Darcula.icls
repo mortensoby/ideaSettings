@@ -3,7 +3,7 @@
     <property name="created">2019-03-28T15:23:00</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-03-29T10:48:53</property>
+    <property name="modified">2019-04-02T12:37:41</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -15,6 +15,12 @@
     <option name="Groovy var">
       <value>
         <option name="FOREGROUND" value="c6bc19" />
+      </value>
+    </option>
+    <option name="Label">
+      <value>
+        <option name="FOREGROUND" value="c6c6c4" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
