@@ -5,6 +5,7 @@
       <mapping ext="databasechangelog" type="Groovy" />
       <mapping ext="gml" type="Groovy" />
       <removed_mapping pattern="Jenkinsfile" approved="true" type="Jenkins file" />
+      <mapping ext="php" type="PHP" />
       <mapping pattern=".gitginore" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".travis" type="PLAIN_TEXT" />
