@@ -81,6 +81,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Execute Gradle Task">
+        <Item>
+          <IdeaActionID>Gradle.ExecuteTask</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+G'</ShortCut>
+          <Description>Execute Gradle Task</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Generate...">
         <Item>
           <IdeaActionID>Generate</IdeaActionID>
@@ -94,7 +102,7 @@
           <IdeaActionID>ActivateGradleToolWindow</IdeaActionID>
           <ShortCut>'Alt Graph+G'</ShortCut>
           <Description>Gradle</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Watch...">
