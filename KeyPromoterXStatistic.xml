@@ -241,6 +241,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'KaldGateway.call bootRun version'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10' or 'Alt Graph+.'</ShortCut>
+          <Description>Run 'KaldGateway.call bootRun version'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'KaldGateway.call through openshift'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
