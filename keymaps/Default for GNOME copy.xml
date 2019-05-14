@@ -145,5 +145,8 @@
     <keyboard-shortcut first-keystroke="altGraph h" />
   </action>
   <action id="context.load" />
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="altGraph q" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
