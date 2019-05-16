@@ -150,7 +150,7 @@
           <IdeaActionID>ExternalSystem.RefreshAllProjects</IdeaActionID>
           <ShortCut>'Ctrl+Shift+Alt Graph+G'</ShortCut>
           <Description>Refresh all Gradle projects</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'API-gateway [carMock]'">
