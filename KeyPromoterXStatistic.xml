@@ -305,6 +305,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'responseStructureSpec'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10' or 'Alt Graph+.'</ShortCut>
+          <Description>Run 'responseStructureSpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'responseStructureSpec.Verify structure …ntents of error response - amount: &quot;abc&quot;'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
