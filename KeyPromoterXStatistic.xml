@@ -150,7 +150,7 @@
           <IdeaActionID>ExternalSystem.RefreshAllProjects</IdeaActionID>
           <ShortCut>'Ctrl+Shift+Alt Graph+G'</ShortCut>
           <Description>Refresh all Gradle projects</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'API-gateway [carMock]'">
@@ -279,6 +279,14 @@
           <ShortCut>'Shift+F10' or 'Alt Graph+.'</ShortCut>
           <Description>Run 'RestIndberetSpec.A valid report is filed'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'TestConsumerSpec.Test that consumer has received message'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10' or 'Alt Graph+.'</ShortCut>
+          <Description>Run 'TestConsumerSpec.Test that consumer has received message'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'berigelse [bootRun]'">
