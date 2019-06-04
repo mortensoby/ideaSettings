@@ -425,6 +425,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ModtageIndberetningKøSpec.Inberetninger fra kø bliver persisteret'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ModtageIndberetningKøSpec.Inberetninger fra kø bliver persisteret'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'RabbitSpec.hi rabbit'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
