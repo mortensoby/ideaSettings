@@ -273,6 +273,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'InternalGatewaySpec.Vi kan ramme dataudstilling'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10' or 'Alt Graph+.'</ShortCut>
+          <Description>Run 'InternalGatewaySpec.Vi kan ramme dataudstilling'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'KaldGateway.call bootRun version'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
