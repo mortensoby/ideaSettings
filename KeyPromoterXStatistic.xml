@@ -73,6 +73,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'IdentityProviderSpec.Hvis vores SSO Token ikke er gyldig, så får vi en 403'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Alt Graph+Dead Circumflex' or 'Shift+F9' or 'Alt Graph+K'</ShortCut>
+          <Description>Debug 'IdentityProviderSpec.Hvis vores SSO Token ikke er gyldig, så får vi en 403'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'filing-api [bootRun']'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -287,6 +295,14 @@
           <ShortCut>'Shift+F10' or 'Alt Graph+.'</ShortCut>
           <Description>Run 'GatewaySpec.test route to car-api'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'IdentityProviderSpec.Hvis vores SSO Token ikke er gyldig, så får vi en 403'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10' or 'Alt Graph+.'</ShortCut>
+          <Description>Run 'IdentityProviderSpec.Hvis vores SSO Token ikke er gyldig, så får vi en 403'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'InternalGatewaySpec.Vi kan ramme dataudstilling'">
