@@ -537,6 +537,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'berigelse [integrationTest]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'berigelse [integrationTest]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'complete [run]'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
