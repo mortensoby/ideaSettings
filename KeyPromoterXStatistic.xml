@@ -521,6 +521,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ProcesseringKøSpec.behandlingsjob bliver behandlet'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ProcesseringKøSpec.behandlingsjob bliver behandlet'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'RabbitSpec.hi rabbit'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -606,7 +614,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>213</Count>
+          <Count>216</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
