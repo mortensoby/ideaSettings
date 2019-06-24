@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateGradleToolWindow</IdeaActionID>
           <ShortCut>'Alt Graph+G'</ShortCut>
           <Description>Gradle</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -345,6 +345,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ProcesseringKøSpec.behandlingsjob bliver behandlet'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10' or 'Alt Graph+.'</ShortCut>
+          <Description>Run 'ProcesseringKøSpec.behandlingsjob bliver behandlet'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'RestIndberetSpec.A valid report is filed'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -534,7 +542,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ProcesseringKøSpec.behandlingsjob bliver behandlet'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RabbitSpec.hi rabbit'">
@@ -622,7 +630,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>218</Count>
+          <Count>222</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
