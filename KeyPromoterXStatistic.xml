@@ -17,6 +17,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Compare with Branch...">
+        <Item>
+          <IdeaActionID>Git.CompareWithBranch</IdeaActionID>
+          <ShortCut>'Ctrl+Alt Graph+B'</ShortCut>
+          <Description>Compare with Branch...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy">
         <Item>
           <IdeaActionID>$Copy</IdeaActionID>
