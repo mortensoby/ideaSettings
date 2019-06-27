@@ -278,7 +278,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10' or 'Alt Graph+.'</ShortCut>
           <Description>Run 'DataplatformSpec.Verify error when platformId is unknown - platformId:&quot;abc&quot;'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FilingGeneratorSpec'">
@@ -502,7 +502,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'DataplatformSpec.Verify error when platformId is unknown - platformId:&quot;abc&quot;'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FilingControllerSpec.search'">
