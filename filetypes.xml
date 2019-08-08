@@ -17,6 +17,7 @@
       <mapping ext="active" type="PLAIN_TEXT" />
       <mapping ext="values" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="iglobalextension" type="PLAIN_TEXT" />
       <mapping ext="ext" type="PLAIN_TEXT" />
