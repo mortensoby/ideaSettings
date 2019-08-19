@@ -4,6 +4,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern="jenkinsfile" type="Groovy" />
       <mapping ext="databasechangelog" type="Groovy" />
       <mapping ext="gml" type="Groovy" />
       <removed_mapping pattern="Jenkinsfile" approved="true" type="Jenkins file" />
