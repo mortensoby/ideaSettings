@@ -59,7 +59,9 @@
         <root url="jar://$USER_HOME$/.sdkman/candidates/groovy/2.5.8/lib/groovy-templates-2.5.8.jar!/" />
       </CLASSES>
       <JAVADOC />
-      <SOURCES />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ideaLibSources/groovy-2.5.8-sources.jar!/" />
+      </SOURCES>
     </library>
   </component>
 </application>
