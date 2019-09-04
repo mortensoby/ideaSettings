@@ -1,0 +1,7 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="asdf">
+      <action id="EditorCut" />
+    </macro>
+  </component>
+</application>
