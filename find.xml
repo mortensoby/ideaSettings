@@ -8,7 +8,6 @@
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -24,5 +23,6 @@
     <mask>!*backup*</mask>
     <mask>*Spec.groovy</mask>
     <mask>*.yaml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
