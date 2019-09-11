@@ -10,6 +10,7 @@
       <removed_mapping pattern="Jenkinsfile" approved="true" type="Jenkins file" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".travis" type="PLAIN_TEXT" />
+      <mapping pattern="JenkinsfileBack" type="PLAIN_TEXT" />
       <mapping pattern=".gitginore" type="PLAIN_TEXT" />
       <mapping pattern=".jira-project" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
