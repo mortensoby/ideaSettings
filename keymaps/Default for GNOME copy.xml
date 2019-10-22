@@ -100,6 +100,9 @@
     <keyboard-shortcut first-keystroke="altGraph space" />
   </action>
   <action id="Images.ShowThumbnails" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="altGraph e" />
+  </action>
   <action id="LocalHistory">
     <keyboard-shortcut first-keystroke="altGraph l" />
   </action>
