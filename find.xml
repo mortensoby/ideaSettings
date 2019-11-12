@@ -21,7 +21,7 @@
     <mask>*Spec.groovy</mask>
     <mask>*.yaml</mask>
     <mask>*.xml</mask>
-    <mask>*.xsd</mask>
     <mask>*.groovy</mask>
+    <mask>*.xsd</mask>
   </component>
 </application>
