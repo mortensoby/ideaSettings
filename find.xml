@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="preserveCase" value="true" />
+    <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
@@ -21,8 +23,8 @@
     <mask>*Spec.groovy</mask>
     <mask>*.yaml</mask>
     <mask>*.groovy</mask>
-    <mask>*.xsd</mask>
     <mask>*.xml</mask>
     <mask>*.wsdl</mask>
+    <mask>*.xsd</mask>
   </component>
 </application>
