@@ -25,7 +25,9 @@
   <action id="CompareClipboardWithSelection">
     <keyboard-shortcut first-keystroke="altGraph p" />
   </action>
-  <action id="CompareTwoFiles" />
+  <action id="CompareTwoFiles">
+    <keyboard-shortcut first-keystroke="altGraph f" />
+  </action>
   <action id="Compile" />
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.CompareCells" />
