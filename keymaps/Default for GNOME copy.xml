@@ -95,6 +95,9 @@
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="shift ctrl alt q" />
   </action>
+  <action id="Git.Squash.Into.Commit">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
   <action id="GoToClass" />
   <action id="GotoCustomRegion" />
   <action id="GotoTest" />
