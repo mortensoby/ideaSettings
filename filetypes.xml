@@ -7,7 +7,6 @@
       <mapping ext="gml" type="Groovy" />
       <removed_mapping pattern="Jenkinsfile" approved="true" type="Jenkins file" />
       <mapping pattern="Jenkinsfile2" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".travis" type="PLAIN_TEXT" />
       <mapping pattern="JenkinsfileBack" type="PLAIN_TEXT" />
       <mapping pattern=".gitginore" type="PLAIN_TEXT" />
@@ -23,8 +22,8 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="dmn" type="XML" />
       <removed_mapping pattern="Jenkinsfile" approved="true" type="Jenkins file" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
