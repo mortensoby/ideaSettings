@@ -24,5 +24,6 @@
     <mask>*.wsdl</mask>
     <mask>*.xsd</mask>
     <mask>*Spec.groovy</mask>
+    <mask>*.py</mask>
   </component>
 </application>
