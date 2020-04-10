@@ -6,6 +6,7 @@
       <mapping ext="databasechangelog" type="Groovy" />
       <mapping ext="gml" type="Groovy" />
       <removed_mapping pattern="Jenkinsfile" approved="true" type="Jenkins file" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Jenkinsfile2" type="PLAIN_TEXT" />
       <mapping pattern=".travis" type="PLAIN_TEXT" />
       <mapping pattern="JenkinsfileBack" type="PLAIN_TEXT" />
