@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
@@ -19,10 +21,11 @@
     <mask>!*.backup</mask>
     <mask>!*backup*</mask>
     <mask>*.yaml</mask>
-    <mask>*.groovy</mask>
     <mask>*.xml</mask>
     <mask>*.wsdl</mask>
     <mask>*.xsd</mask>
     <mask>*Spec.groovy</mask>
+    <mask>*.py</mask>
+    <mask>*.groovy</mask>
   </component>
 </application>
