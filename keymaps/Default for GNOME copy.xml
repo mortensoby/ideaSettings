@@ -117,7 +117,9 @@
   </action>
   <action id="GoToClass" />
   <action id="GotoCustomRegion" />
-  <action id="GotoTest" />
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
   <action id="Gradle.ExecuteTask">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
@@ -191,4 +193,5 @@
     <keyboard-shortcut first-keystroke="altGraph q" />
   </action>
   <action id="openAssertEqualsDiff" />
+  <action id="tasks.switch" />
 </keymap>
