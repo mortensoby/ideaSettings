@@ -5,6 +5,7 @@
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="gml" type="Groovy" />
       <mapping ext="databasechangelog" type="Groovy" />
+      <removed_mapping pattern="composer.lock" type="JSON" />
       <removed_mapping pattern="Jenkinsfile" approved="true" type="Jenkins file" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="JenkinsfileBack" type="PLAIN_TEXT" />
@@ -27,6 +28,7 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="dmn" type="XML" />
+      <removed_mapping pattern="phpunit.xml.dist" type="XML" />
       <removed_mapping pattern="Jenkinsfile" approved="true" type="Jenkins file" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
