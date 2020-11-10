@@ -119,6 +119,9 @@
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="GoToClass" />
+  <action id="GoToProject">
+    <keyboard-shortcut first-keystroke="altGraph i" />
+  </action>
   <action id="GotoCustomRegion" />
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="shift alt t" />
