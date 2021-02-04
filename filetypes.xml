@@ -24,7 +24,6 @@
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="values" type="PLAIN_TEXT" />
-      <mapping ext="bpmn" type="XML" />
       <mapping ext="dmn" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
