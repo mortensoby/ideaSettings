@@ -1,0 +1,7 @@
+<templateSet group="OpenAPI Specifications (.yaml)">
+  <template name="rf" value="$ref: '#/$END$'" description="reference" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ANY_OPENAPI_YAML_FILE" value="true" />
+    </context>
+  </template>
+</templateSet>
