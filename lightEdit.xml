@@ -1,5 +1,11 @@
 <application>
   <component name="LightEdit">
+    <option name="sessionFiles">
+      <list>
+        <option value="file://$USER_HOME$/scripts/search-google.sh" />
+        <option value="file://$USER_HOME$/scripts/search-google.groovy" />
+      </list>
+    </option>
     <option name="supportedFilePatterns">
       <list>
         <option value="*.conf" />
