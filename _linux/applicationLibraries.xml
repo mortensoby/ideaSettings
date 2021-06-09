@@ -255,9 +255,11 @@
         <root url="jar://$USER_HOME$/.sdkman/candidates/groovy/3.0.7/lib/junit-platform-launcher-1.7.0.jar!/" />
         <root url="jar://$USER_HOME$/.sdkman/candidates/groovy/3.0.7/lib/javax.servlet-api-4.0.1.jar!/" />
         <root url="jar://$USER_HOME$/.sdkman/candidates/groovy/3.0.7/lib/groovy-test-junit5-3.0.7.jar!/" />
+        <root url="file://$USER_HOME$/.sdkman/candidates/groovy/3.0.7/lib/extras-jaxb" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
+      <jarDirectory url="file://$USER_HOME$/.sdkman/candidates/groovy/3.0.7/lib/extras-jaxb" recursive="false" />
     </library>
     <library name="Python 3.6 interpreter library">
       <CLASSES>
